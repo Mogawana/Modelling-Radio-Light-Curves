@@ -1,0 +1,110 @@
+###########################################################################
+######################### Circular Orbits #################################
+###########################################################################
+
+Initial conditions with isorthermal Equation of State (gamma = 1)
+
+Mass_RSG =  15 Msol          # mass of the red supergiant
+
+Mass_B1 = 10 Msol            # mass of the B star
+
+e = 0                        # eccentricity
+
+w_RSG = 10 km/s              # velocity of the red supergiant wind
+
+dM = 6*10^(-5) Msol yr^-1    # Mass Loss Rate
+
+Cs =  3.7 km/s               # speed of sound
+
+P = 2900 Yrs                 # orbital period of the binay
+
+a = 594.62797 AU             # Binary speration
+
+r10 = 356.77678 AU           # distance from COM to the B1 companion
+
+r15 = 237.85118 AU 		     # distance from COM to the red supergiant
+
+v10 = 3.66437 km/s           # velocity of the B1 companion
+
+v15 = 2.44291 km/s           # velocity of the red supergiant
+
+V = 6.10717 km/s             # relative speed of the two stars
+
+t = 13 200 yr                # evolution time-scale
+
+
+--------------------------------------------------------------------------
+Initial conditions with polytropic Equation of State (gamma = 5/3)
+
+Mass_RSG =  15 Msol          # mass of the red supergiant
+
+Mass_B1 = 10 Msol            # mass of the B star
+
+e = 0                        # eccentricity
+
+w_RSG = 10 km/s              # velocity of the red supergiant wind
+
+dM = 6*10^(-5) Msol yr^-1    # Mass Loss Rate
+
+Cs =  3.7 km/s               # speed of sound
+
+P = 4000 yr                  # orbital period of the binay
+
+a = 736.80629 AU             # Binary speration
+
+r10 = 442.08377 AU           # distance from COM to the B1 companion
+
+r15 = 294.72251 AU 		     # distance from COM to the red supergiant
+
+v10 = 3.29189 km/s           # velocity of the B1 companion
+
+v15 = 2.19459 km/s           # velocity of the red supergiant
+
+V = 5.48638 km/s             # relative speed of the two stars
+
+t = 15 000 yr                # evolution time-scale
+
+####################################################################################
+################################## Elliptic Orbits #################################
+####################################################################################
+
+Initial conditions with isorthermal Equation of State (gamma = 1)
+
+Mass_RSG =  15 Msol          # mass of the red supergiant
+
+Mass_B1 = 10 Msol            # mass of the B star
+
+e = 0.5                      # eccentricity
+
+w_RSG = 10 km/s              # velocity of the red supergiant wind
+
+dM = 6*10^(-5) Msol yr^-1    # Mass Loss Rate
+
+Cs =  3.7 km/s               # speed of sound
+
+P = 2900 Yrs                 # orbital period of the binay
+
+a = 594.62797 AU             # length of semi-major axis
+
+t = 13 200 yr                # evolution time-scale
+
+--------------------------------------------------------------------------
+Initial conditions with polytropic Equation of State (gamma = 5/3)
+
+Mass_RSG =  15 Msol          # mass of the red supergiant
+
+Mass_B1 = 10 Msol            # mass of the B star
+
+e = 0.5                      # eccentricity
+
+w_RSG = 10 km/s              # velocity of the red supergiant wind
+
+dM = 6*10^(-5) Msol yr^-1    # Mass Loss Rate
+
+Cs =  3.7 km/s               # speed of sound
+
+P = 4000 yr                  # orbital period of the binay
+
+a = 736.80629 AU             # length of semi-major axis
+
+t = 15 000 yr                # evolution time-scale
